@@ -3083,7 +3083,7 @@ input[type="button"].btn-block {
   padding: 0.5rem 0;
   margin: 0.125rem 0 0;
   font-size: 1rem;
-  color: #212529;
+  
   text-align: left;
   list-style: none;
   background-color: #fff;
@@ -4603,8 +4603,7 @@ input[type="button"].btn-block {
 }
 
 .card-title {
-  margin-bottom: 0.75rem;
-}
+ 
 
 .card-subtitle {
   margin-top: -0.375rem;
@@ -4857,7 +4856,7 @@ input[type="button"].btn-block {
   display: flex;
   padding-left: 0;
   list-style: none;
-  border-radius: 0.25rem;
+  
 }
 
 .page-link {
@@ -4866,9 +4865,7 @@ input[type="button"].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #007bff;
-  background-color: #fff;
-  border: 1px solid #dee2e6;
+  
 }
 
 .page-link:hover {
@@ -4892,8 +4889,7 @@ input[type="button"].btn-block {
 }
 
 .page-item:last-child .page-link {
-  border-top-right-radius: 0.25rem;
-  border-bottom-right-radius: 0.25rem;
+ 
 }
 
 .page-item.active .page-link {
@@ -4908,7 +4904,7 @@ input[type="button"].btn-block {
   pointer-events: none;
   cursor: auto;
   background-color: #fff;
-  border-color: #dee2e6;
+  
 }
 
 .pagination-lg .page-link {

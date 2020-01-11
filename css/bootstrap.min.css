@@ -2768,14 +2768,13 @@ fieldset:disabled a.btn {
 }
 
 .btn-secondary {
-   color: #222222;
-font-family: Lato;
+   font-family: Lato;
 font-size: 14px;
 font-weight: 300;
 line-height: 32px;
 /* Text style for "B, rowse" */
-letter-spacing: 0.35px; background-color: #6c757d;
-    border-color: #6c757d
+letter-spacing: 0.35px; 
+    
 }
 
 .btn-secondary:hover {
@@ -2786,8 +2785,7 @@ font-weight: 300;
 line-height: 32px;
 /* Text style for "B, rowse" */
 letter-spacing: 0.35px;
-    background-color: #5a6268;
-    border-color: #545b62
+    
 }
 
 .btn-secondary.focus,
@@ -2803,8 +2801,7 @@ font-size: 14px;
 font-weight: 300;
 line-height: 32px;
 /* Text style for "B, rowse" */
-letter-spacing: 0.35px; background-color: #6c757d;
-    border-color: #6c757d
+letter-spacing: 0.35px; 
 }
 
 .btn-secondary:not(:disabled):not(.disabled).active,
@@ -2817,8 +2814,7 @@ font-weight: 300;
 line-height: 32px;
 /* Text style for "B, rowse" */
 letter-spacing: 0.35px;
-    background-color: #545b62;
-    border-color: #4e555b
+
 }
 
 .btn-secondary:not(:disabled):not(.disabled).active:focus,
@@ -5314,7 +5310,7 @@ input[type=submit].btn-block {
     line-height: 1.25;
     color: #007bff;
     background-color: #fff;
-    border: 1px solid #dee2e6
+    
 }
 
 .page-link:hover {
